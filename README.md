@@ -40,5 +40,6 @@ Open to technical exchange and project collaboration — feel free to reach out.
 
 <a href="https://github.com/SeanWong17">
   <img height="180" src="https://github-readme-stats-omega-five-62.vercel.app/api/top-langs/?username=SeanWong17&layout=compact&theme=transparent&hide_border=true&hide=html,css" />
+  <img width="20" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" />
   <img height="180" src="https://github-readme-stats-omega-five-62.vercel.app/api?username=SeanWong17&show_icons=true&theme=transparent&hide_border=true" />
 </a>
