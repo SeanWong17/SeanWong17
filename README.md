@@ -38,4 +38,7 @@ Open to technical exchange and project collaboration — feel free to reach out.
 
 ---
 
-![Top Langs](https://github-readme-stats-omega-five-62.vercel.app/api/top-langs/?username=SeanWong17&layout=compact&theme=transparent&hide_border=true&hide=html,css)
+<a href="https://github.com/SeanWong17">
+  <img height="180" src="https://github-readme-stats-omega-five-62.vercel.app/api/top-langs/?username=SeanWong17&layout=compact&theme=transparent&hide_border=true&hide=html,css" />
+  <img height="180" src="https://github-readme-stats-omega-five-62.vercel.app/api?username=SeanWong17&show_icons=true&theme=transparent&hide_border=true&hide_rank=true" />
+</a>
